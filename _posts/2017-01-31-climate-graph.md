@@ -13,3 +13,5 @@ After tweaking things I was able to produce the plot found here. This shows how 
 The script can be found at my other github account - [Climate Script](https://github.com/ogletrees/ClimateStudy). Have a go with your local weather station!
 
 #### Some notes
+- Once things are set up the plotting seems quite slow, maxing out the processor. There probably are ways to speed it up, it seemed quicker the first time I played with it.
+- another thing
