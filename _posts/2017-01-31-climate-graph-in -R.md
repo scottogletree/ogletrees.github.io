@@ -1,5 +1,5 @@
 # Climate Plot for Clemson in R
-<img src="/assests/Clemson-2016.jpg" alt="Drawing" style="width: 1000px;"/>
+<div style="text-align: center;"><img src="/assests/Clemson-2016.jpg" alt="Drawing" style="width: 1000px;"/></div>
 
 
 Recently I can across a tutorial that sought to recreate Edward Tufte's climate plot for Dayton, OH. It was by Brad Boehmke and can be found [here](https://rpubs.com/bradleyboehmke/weather_graphic).
