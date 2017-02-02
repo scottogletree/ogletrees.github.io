@@ -1,4 +1,4 @@
-# Climate Plot for Clemson
+# Climate Plot for Clemson in R
 <img src="/assests/Clemson-2016.jpg" alt="Drawing" style="width: 1000px;"/>
 
 
