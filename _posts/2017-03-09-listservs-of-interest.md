@@ -2,7 +2,7 @@
 
 These are some listservs that might be of interest to people at the intersection of social and ecological fields. I would have like to know about them earlier in my PhD journey so here they are for others.
 
-### [ECOLOG](https://listserv.umd.edu/archives/ecolog-l.html)
+### [ECOLOG](https://listserv.umd.edu/archives/ecolog-l.html){:target="_blank"}
 
 This is an ecology focused listserv but will have opportunities and announcements that sometimes cross over fields.
 
