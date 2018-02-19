@@ -10,8 +10,8 @@ So I fetched the data and made a plot that is more like art, based on work by Dr
 <div style="text-align: center;"><img src="/assests/flow_plot.jpg" alt="Drawing" style="width: 1000px;"/></div>
 
 
-The code is at https://github.com/scottogletree/codebits/
+The code is at [bcycle_flow.r](https://github.com/scottogletree/codebits/)
 
 A little extra work was done in Adobe Illustrator.
 
-The data is at https://www.denverbcycle.com/company
+The data is at [Denver BCycle](https://www.denverbcycle.com/company)
