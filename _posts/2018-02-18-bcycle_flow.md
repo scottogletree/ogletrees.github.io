@@ -11,5 +11,5 @@ So I fetched the data and made a plot that is more like art, based on work by Dr
 
 
 The code is at
-
+A little extra work was done in Adobe Illustrator.
 The data is at https://www.denverbcycle.com/company
