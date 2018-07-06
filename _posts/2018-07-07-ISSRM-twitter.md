@@ -42,3 +42,5 @@ The top 10 tweeters:
     8          AspenMTU  14      1%
     9      BethanyCutts  12      1%
     10       johnson_dn  12      1%
+
+<div style="text-align: center;"><img src="/assests/ISSRM_users.jpg" alt="Drawing" style="width: 200px;"/></div>
