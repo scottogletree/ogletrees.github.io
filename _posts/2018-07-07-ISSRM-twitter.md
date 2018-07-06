@@ -9,11 +9,11 @@ I recently attended the International Symposium on Society and Resource Manageme
 To look at one aspect of the event I collected tweets that used the conference hashtag - #ISSRM2018. Here's what I found.
 
 
-# Tweet Frequency
+## Tweet Frequency
 
 The conference ran from June 17 through 22. During the conference 960 tweets were collected using the hashtag **#ISSRM2018**
 
-# Original tweets and retweets
+## Original tweets and retweets
 
 Some tweets were retweets and some were original material.
 
