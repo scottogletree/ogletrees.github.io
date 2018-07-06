@@ -4,36 +4,30 @@ title: "Conference twitter - #ISSRM2018"
 date: 2018-07-07
 ---
 
-I recently attending the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!
+I recently attended the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!
 
 To look at one aspect of the event I collected tweets that used the conference hashtag - #ISSRM2018. Here's what I found.
 
 
 # Tweet Frequency
 
-The conference ran from June 17 through 22.
-The total number of tweets collected during the conference were ___
+The conference ran from June 17 through 22. During the conference 960 tweets were collected using the hashtag **#ISSRM2018**
 
 # Original tweets and retweets
 
+Some tweets were retweets and some were original material.
+
+The breakdown was 
+
+462 original tweets (43%)
+
+604 retweets (57%)
+
+
 # Most retweeted tweet
 
-# Number per day, most active day.
+The most retweeted tweet was
 
-# Top 10 users
+"RT @GeogJulie: Excited to launch our new book The Human Dimensions of Forest & Tree Health at the #ISSRM2018 today! @THAPBI @TreeHealthNews @CCRI_UK" https://twitter.com/GeogJulie/status/1009185468397674497
 
-Wordcloud would be typical but there is a big imbalance, so show table of top 10 words/frequency in tweet text
-
-# Top mentions of other users
-
-
-# Most mentioned hashtag
-
-# most retweeted user - who was retweeted the most?
-
-A network diagram would be nifty. https://briatte.github.io/ggnet/  http://kateto.net/network-visualization  https://dicook.github.io/WOMBAT/slides/yanchang.pdf  http://www.sthda.com/english/articles/33-social-network-analysis/136-network-analysis-and-manipulation-using-r/
-http://biostat.jhsph.edu/~jleek/code/twitterMap.R
-
-posting times, higher in the midday and evening.
-
-Questions of the data - Who, What, When, Where
+The most retweeted user was @KathyEHalvorsen
