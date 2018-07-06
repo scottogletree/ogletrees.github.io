@@ -28,3 +28,17 @@ The most retweeted tweet was:
 "RT @GeogJulie: Excited to launch our new book The Human Dimensions of Forest & Tree Health at the #ISSRM2018 today! @THAPBI @TreeHealthNews @CCRI_UK" https://twitter.com/GeogJulie/status/1009185468397674497
 
 The most retweeted user was @KathyEHalvorsen.
+
+The top 10 tweeters:
+
+              from_user   n percent
+    1        info_iasnr 262     25%
+    2   KathyEHalvorsen  94      9%
+    3       Metcalf_Lab  29      3%
+    4    KristinSleeper  22      2%
+    5    DrSarahClement  21      2%
+    6      BethanyCutts  19      2%
+    7          AspenMTU  18      2%
+    8     mtu_SocialSci  17      2%
+    9     BeckySchewe30  16      2%
+    10         lprokopy  16      2%
