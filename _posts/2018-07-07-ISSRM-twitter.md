@@ -17,17 +17,14 @@ The conference ran from June 17 through 22. During the conference 960 tweets wer
 
 Some tweets were retweets and some were original material.
 
-The breakdown was 
+The breakdown was:
 
 462 original tweets (43%)
 
 604 retweets (57%)
 
-
-# Most retweeted tweet
-
-The most retweeted tweet was
+The most retweeted tweet was:
 
 "RT @GeogJulie: Excited to launch our new book The Human Dimensions of Forest & Tree Health at the #ISSRM2018 today! @THAPBI @TreeHealthNews @CCRI_UK" https://twitter.com/GeogJulie/status/1009185468397674497
 
-The most retweeted user was @KathyEHalvorsen
+The most retweeted user was @KathyEHalvorsen.
