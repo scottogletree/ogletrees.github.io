@@ -32,13 +32,13 @@ The most retweeted user was @KathyEHalvorsen.
 The top 10 tweeters:
 
               from_user   n percent
-    1        info_iasnr 262     25%
-    2   KathyEHalvorsen  94      9%
+    1        info_iasnr 248     26%
+    2   KathyEHalvorsen  80      8%
     3       Metcalf_Lab  29      3%
-    4    KristinSleeper  22      2%
-    5    DrSarahClement  21      2%
-    6      BethanyCutts  19      2%
-    7          AspenMTU  18      2%
-    8     mtu_SocialSci  17      2%
-    9     BeckySchewe30  16      2%
-    10         lprokopy  16      2%
+    4    DrSarahClement  21      2%
+    5    KristinSleeper  21      2%
+    6          lprokopy  16      2%
+    7     BeckySchewe30  15      2%
+    8          AspenMTU  14      1%
+    9      BethanyCutts  12      1%
+    10       johnson_dn  12      1%
