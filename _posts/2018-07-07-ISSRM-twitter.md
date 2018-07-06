@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "#ISSRM2018 Analysis"
-date: 2018-07-03
+title: "Conference twitter - #ISSRM2018"
+date: 2018-07-07
 ---
 
 I recently attending the International Symposium on Society and Resource Management (ISSRM) in Snowbird, Utah. It was a great conference in a great location!
