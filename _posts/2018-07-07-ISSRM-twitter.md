@@ -36,3 +36,7 @@ The top 10 tweeters:
 The day that people tweeted.
 
 <div style="text-align: center;"><img src="/assests/ISSRM_day_vol.jpg" alt="Drawing" style="width: 500px;"/></div>
+
+and the time.
+
+<div style="text-align: center;"><img src="/assests/ISSRM_by_2_hours.jpg" alt="Drawing" style="width: 500px;"/></div>
