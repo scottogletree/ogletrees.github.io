@@ -30,3 +30,9 @@ The most retweeted user was *@KathyEHalvorsen*.
 The top 10 tweeters:
 
 <div style="text-align: center;"><img src="/assests/ISSRM_users.jpg" alt="Drawing" style="width: 500px;"/></div>
+
+## Tweet Time
+
+The day that people tweeted.
+
+<div style="text-align: center;"><img src="/assests/ISSRM_day_vol.jpg" alt="Drawing" style="width: 500px;"/></div>
