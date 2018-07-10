@@ -39,4 +39,4 @@ The day that people tweeted.
 
 and the time.
 
-<div style="text-align: center;"><img src="/assests/ISSRM_by_2_hours.jpg" alt="Drawing" style="width: 500px;"/></div>
+<div style="text-align: center;"><img src="/assests/ISSRM_by_2_hours.jpg" alt="Drawing" style="width: 600px;"/></div>
