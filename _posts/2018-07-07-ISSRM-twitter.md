@@ -53,3 +53,16 @@ and the time.
      8 #academicmama        5
      9 #conservation        5
     10 #consocsci           5
+
+### Mentions
+        Mentioned       # of mentions
+     1 @info_iasnr        120
+     2 @mtu_socialsci      27
+     3 @mturesearch        23
+     4 @kathyehalvorsen    13
+     5 @metcalf_lab        12
+     6 @umcfc               9
+     7 @energy_subject      7
+     8 @libbymetcalf        7
+     9 @nalininadkarni      7
+    10 @snowbird            7
