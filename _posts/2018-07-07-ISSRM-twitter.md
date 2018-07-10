@@ -17,9 +17,9 @@ Some tweets were retweets and some were original material.
 
 The breakdown was:
 
-- 416 original tweets (43%)
+  416 original tweets (43%)
 
-- 544 retweets (57%)
+  544 retweets (57%)
 
 The most retweeted tweet was:
 
