@@ -11,15 +11,15 @@ To look at one aspect of the event I collected tweets that used the conference h
 
 ## Tweet Frequency
 
-The conference ran from June 17 through 22. During the conference 960 tweets were collected using the hashtag **#ISSRM2018**
+The conference ran from June 17 through 22. During the conference 930 tweets were collected using the hashtag **#ISSRM2018**
 
 Some tweets were retweets and some were original material.
 
 The breakdown was:
 
-  416 original tweets (43%)
+  396 original tweets (43%)
 
-  544 retweets (57%)
+  534 retweets (57%)
 
 The most retweeted tweet was:
 
