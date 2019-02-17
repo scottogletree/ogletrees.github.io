@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analsis of Google Earth Engine forum posts"
+title: "Analysis of Google Earth Engine forum posts"
 date: 2019-02-17
 ---
 
